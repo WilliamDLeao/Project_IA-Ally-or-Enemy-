@@ -1,0 +1,3 @@
+# Site do Projeto - IA: Aliada ou Inimiga?
+[📄 Link](https://williamdleao.github.io/Project_IA-Ally-or-Enemy-/)
+Site do projeto de iniciação científica que tem como objetivo geral investigar o uso que alunos do ensino médio e/ou superior do CEFET-MG Campus Divinópolis fazem da inteligência artificial generativa no cumprimento de tarefas em língua inglesa, de forma a avaliar se esse uso é benéfico ou prejudicial ao processo de aprendizagem.

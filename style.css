@@ -705,7 +705,7 @@
   /* TEAM CARDS */
   .team-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 24px;
     max-width: 900px;
     margin: 0 auto 64px;
@@ -837,4 +837,18 @@
 #mainnav.collapsed .nav-cta {
   padding: 0rem 0rem;
   font-size: 0rem;
+}
+
+.arrendondar {
+  width: 265px;
+  height: 265px;
+  border-radius: 50%; /* Ou ex: 12px para cantos suavemente arredondados */
+  overflow: hidden;   /* Corta os cantos da imagem que sobressaírem */
+  margin-bottom: 15px;
+}
+
+.arrendondar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
